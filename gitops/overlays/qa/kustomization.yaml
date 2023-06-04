@@ -1,4 +1,4 @@
-namespace: gitopsdemo-qa
+namespace: postgres-db
 
 bases:
   - ../../base/postgres
