@@ -1,4 +1,4 @@
-namespace: gitopsdemo-prod
+namespace: postgres-db
 
 generatorOptions:
   disableNameSuffixHash: true
